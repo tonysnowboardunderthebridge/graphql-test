@@ -1,0 +1,5 @@
+# import CMVideo from "CMVideo.graphql"
+
+type Query {
+  cmvideo(id: String!): CMVideo
+}

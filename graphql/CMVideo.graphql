@@ -1,0 +1,8 @@
+
+type CMVideo {
+  id: String!
+  callToActionCustomText: String!
+  alt: String!
+  mimeType: String!
+  data: String!
+}
