@@ -1,2 +1,2 @@
-# take-your-testing-time
-Testing
+# graphql-test
+GraphQL Testing
